@@ -1,0 +1,21 @@
+.pictures{
+    font-family: 'Ranga', cursive;
+    color:red;
+}
+
+.artist{
+    
+        font-family: 'Rubik', sans-serif;
+        color:blue;
+}
+.car{
+    font-family: 'Rubik', sans-serif;
+    color: green;
+}
+.bike{
+    font-family: 'Anton', sans-serif;
+    color:orange;
+}
+.winner{
+    font-family: 'Teko', sans-serif;
+}
