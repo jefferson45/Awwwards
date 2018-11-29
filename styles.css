@@ -5,13 +5,15 @@
 
 .artist{
     
-        font-family: 'Rubik', sans-serif;
-        color:blue;
+      font-family: 'Lobster Two', cursive;
+        color:beige;
+      
 }
 .car{
     font-family: 'Rubik', sans-serif;
     color: green;
-}
+    
+    }
 .bike{
     font-family: 'Anton', sans-serif;
     color:orange;
@@ -22,4 +24,7 @@
 }
 body{
 background-color:purple;
+}
+.title{
+    color:hotpink;
 }
